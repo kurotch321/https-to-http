@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a simple server that simply redirects https to http.
+This is a simple server that simply redirects https to http. <br>
 For example: Accessing https://server.example.com/index.html will redirect to http://server.example.com/index.html.
 
 ## How to use
