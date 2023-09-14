@@ -1,0 +1,28 @@
+{
+  "name": "https-to-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node_modules/.bin/nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekodayo2222/https-to-http.git"
+  },
+  "author": "Katsunori Kuroda <katsunori.kuroda@idealike.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekodayo2222/https-to-http/issues"
+  },
+  "homepage": "https://github.com/nekodayo2222/https-to-http#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
